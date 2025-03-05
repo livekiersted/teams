@@ -1,20 +1,23 @@
 ---
-title: "Anti-Racism Coaching"
+title: "Team Dynamics Analysis"
 header_menu_title: "What"
+navigation_menu_title: "What"
 weight: 1
 header_menu: true
 ---
 
-Coaching & Strategy for White People, POC in White Spaces, and Organizations
+When teams struggle, they usually think the problem is **communication**—but more often, it’s **trauma, power imbalances, and unmet needs**. I come in, meet with everyone, observe the dynamics firsthand, and figure out **what’s actually going on**.
 
-If you're navigating the impact of white supremacy—whether in your personal relationships, your workplace, or your leadership role—you don’t have to do it alone.
+I work with **teams of all kinds**—colleagues, collectives, polycules, housemates, sports teams—any group that needs to function well together but keeps running into **the same frustrating conflicts**.
 
-I work with:
+My process is immersive and practical. Over several months, I:
+- **Meet 1:1** with each person to hear their perspective and gather insights.
+- **Facilitate dyads and small groups**, working directly on shifting team dynamics in real-time.
+- **Identify underlying patterns**, not just surface-level friction.
+- **Pinpoint what’s changeable and what’s not**, so you can make informed decisions.
 
-- **White people**—whether you’re newly waking up or years in, I help you move past guilt, confusion, and overwhelm into clarity, action, and deepened integrity.
-- **POC navigating white spaces**—decode the baffling, frustrating behaviors of white colleagues, bosses, and friends. Validate your experience, strategize next steps, and move through it with more ease.
-- **Organizations & leadership**—from racially diverse teams struggling to function well together to DEI-minded leaders losing institutional support, I bring a clear lens to power dynamics, team culture, and what needs to shift.
+I don’t blame individuals—I analyze and adjust **systems**. Mammalian nervous systems react under threat, whether or not anyone consents to it. Recognizing this is **key to building functional teams**.
 
-This work can feel isolating, confusing, and discouraging. But clarity is possible. You can move from stuck to strategic, from alone to deeply connected, from overwhelmed to knowing exactly what needs to happen next. Let’s figure it out together.
+At the end of our work together, I deliver a **sharp, honest assessment** of what’s happening and **clear recommendations for next steps**. If the team wants to continue, I offer **facilitation and ongoing support** to help integrate changes.
 
-📌 Book a [free 20-minute call](https://tidycal.com/livekiersted/check-in) to see if we’re a fit, or dive right in and book a session below.
+I am **clear-sighted, practical, and expert at seeing how power functions in relationships**. If you genuinely want to understand what’s happening in your team and improve how you work together, I can help. If you don’t want to know the truth, I’m not the right person for you. But if you’re ready, let’s figure it out together.

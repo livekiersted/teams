@@ -1,20 +1,16 @@
 ---
 title: "Live Kiersted"
 header_menu_title: "Who"
+navigation_menu_title: "Who"
 weight: 2
 header_menu: true
 ---
 {{< figure src="images/LiveKiersted.png" alt="Live Kiersted headshot" class="centered-image" width="30%">}}
 
-I’m a **white woman who has been doing this work deeply for many years**. I don’t claim to understand the experience of being a person of color, but I **do** understand how whiteness operates—because I live it. I’ve done all the things white women do, and I’ve worked hard to see them clearly and move differently. The POC in my life have given me the **gift of honest feedback** about my whiteness, and that clarity has helped me recognize patterns as they arise, both in myself and in my clients.  
+My background is in anti-racism work with white people, where I’ve spent years helping individuals and organizations see and **shift deeply ingrained power dynamics**. That experience gives me a sharp, practiced eye for **how power functions in teams**—how it moves, who holds it, how it’s leveraged or denied, and how it shapes every interaction, often in ways people don’t realize.
 
-This work isn’t just something I do—it’s **deeply personal** to me. I love working with people for whom it’s personal too, whether it’s showing up in their relationships, workplace, leadership, or community. **I believe we each have a role to play in the lifelong struggle against racism**, and I help people find **their lane**—so they can move through it with clarity, integrity, and impact.  
+I don’t believe in neutrality. My job is not to sit back and pretend all perspectives carry equal weight. My job is to **speak truth to power**—compassionately, directly, and with deep care for everyone involved. I **blame systems, not people**, and I recognize that we all move through the world carrying wounds, assumptions, and habits that shape how we engage in teams. I help groups see those patterns clearly so they can choose something different.
 
-My clients come to me when they need:  
-- **Deep validation**—to hear *“You’re not crazy”* from someone who *gets it*.  
-- **Sharp clarity**—to make sense of what’s happening beneath the surface, so they can move forward instead of spinning.  
-- **Practical strategies**—that work in real-life relationships, workplaces, and leadership roles.  
+People often bring me in thinking their problem is communication. Sometimes, that’s true. But more often, **the problem is trauma**, structural inequities, or unexamined dynamics of control and avoidance. I am here to see what’s really happening and to help your team find ways to function that are clearer, smoother, and more sustainable.
 
-I bring **deep compassion, clear-eyed honesty, and an unshakable belief in your capacity to navigate this**. I’ll care about you while also telling you the truth. I see power dynamics, I see patterns, and I make the invisible visible.  
-
-**If you’re ready to move forward, we can figure this out together.**  
+If you want to actually **understand** what’s going on in your team and build a structure that supports your real goals, I can help. If you’re looking for someone to smooth things over without addressing the deeper issues, I’m not the right fit. But if you’re ready for **clarity, honesty, and forward momentum**—let’s talk.
